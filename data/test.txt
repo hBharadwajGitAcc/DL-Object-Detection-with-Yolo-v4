@@ -1,0 +1,1 @@
+/content/gdrive/MyDrive/Colab Notebooks/Projects/Object Detection with Yolo v4/yolov4/darknet/data/images/3.jpg
